@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.55.
+signed via the Module::Signature module, version 0.66.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,21 +14,21 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 97038432bdd5035b11a2a7998c3e8238570048fd Build.PL
-SHA1 f3f28b0d17ebb77aea32cbd2d51195020e2ef437 Changes
+SHA1 7a282fc0467663c85c3f59e86a003ab4694bc083 Build.PL
+SHA1 d86afb25f27b837091f8906c4b032836167e43aa Changes
 SHA1 5950466527e2531cd61c2957baca524c16f62a24 Incompatibilities
-SHA1 74b1c398020b9c1e8849b7982751cb70ecc5de8d LICENSE
-SHA1 af8c20d9a6aaaa453ac9db47969e7d6990089349 MANIFEST
-SHA1 7d9037725a8f8c9c65eff1e091819c215f55c650 MANIFEST.SKIP
-SHA1 45b388d8ccf3b51a2d755c81b13c427bd21366a9 META.yml
-SHA1 a376f5957240b47b2882b6e62eb7c49dee590b9a Makefile.PL
-SHA1 0e6e26264d6450e549aae3df178bed43e7063a6c README
-SHA1 e093fc2e093349b7b7afe062b3bed3fbab4ea6fb eg/extends_io_file.pl
+SHA1 da7d205cfd1b79b38c7a6d18ca55373470086825 LICENSE
+SHA1 2adea877c1a64f083dcdf86a1b1372ab7822830c MANIFEST
+SHA1 4e1b00d61265c6c39a6f571c0f61f74226005ffb MANIFEST.SKIP
+SHA1 ad281d1d4e4bd5e133a88ea02536daf2099826d8 META.yml
+SHA1 76756a991860f0e874ee1db6f84c63d174d9a948 Makefile.PL
+SHA1 72d9feac241faeba14d2c23238e8368a51fd9f9b README
+SHA1 fceef476c4bb4702155dcb45ac030eed11f32cd2 eg/extends_io_file.pl
 SHA1 e6a109b4b38899b6056523dea332450d1661614c eg/my_io.pl
-SHA1 27f5eed4c38b41b7bc974e75022224b552e20951 lib/MooseX/GlobRef.pm
-SHA1 b4953b2b26490f42e02cdf5aa5fe4fc6fc15cec6 lib/MooseX/GlobRef/Object.pm
-SHA1 a96b739249a2d56a7c3f0888bd8376ac1aa8a9f1 lib/MooseX/GlobRef/Role/Meta/Instance.pm
-SHA1 b4c1ebb72167ccd8f36b919bfdd193c846bb5141 lib/MooseX/GlobRef/Role/Object.pm
+SHA1 07c8688af358fe069b916882d195b507a74b2e59 lib/MooseX/GlobRef.pm
+SHA1 2cd53f4a3ae65a75e26cf9ac49cc41443aedbe1b lib/MooseX/GlobRef/Object.pm
+SHA1 b77aa356a3f7538010e15bbe1b1147609377f0d8 lib/MooseX/GlobRef/Role/Meta/Instance.pm
+SHA1 e6154aa849f119298337cdb7e5eaa9af791d97a4 lib/MooseX/GlobRef/Role/Object.pm
 SHA1 911526ec5bb16d2e1188562ec17799cb44de446a t/all_tests.t
 SHA1 d922d419974ea2a46afb7b2bcf976aec2ac00e24 t/test.pl
 SHA1 2dbe2947737d1c727fc827eaed7b549559858624 t/tlib/MooseX/GlobRef/ObjectImmutableTest.pm
@@ -51,9 +51,9 @@ SHA1 511b6a951c5f304e24f0ec832faf1a1f265ccb5c xt/pod_spellrc
 SHA1 2c579b58def8daec94f41b628ac81c256faaa2b1 xt/pod_syntax.t
 SHA1 a38994922fda6d64e2ee75198fadc464a221fea9 xt/signature.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.9 (GNU/Linux)
+Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAkmn6pAACgkQhMHHe8CxCltnmwCg2BeLv1ysnj4WOMy/eo+zTA5L
-mGkAoOGeecH/IJPfC8T/jDwbbhI0/DWy
-=ugpX
+iEYEARECAAYFAkybvSkACgkQhMHHe8CxClvM8ACgv9REAxr9yez7aU8HCekWEKkQ
+EBkAoNNnaix/C0us9U1VI6kCvAVkmSKl
+=EnIi
 -----END PGP SIGNATURE-----
